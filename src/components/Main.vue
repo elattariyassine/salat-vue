@@ -101,7 +101,7 @@ export default {
   created() {
     this.selectedCountryFullName = this.GetCountryFullNameByCode;
     this.loadCities();
-    this.selectedCity = "Youssoufia";
+    this.selectedCity = "Rabat";
   },
   methods: {
     HandleSelectedCountry() {

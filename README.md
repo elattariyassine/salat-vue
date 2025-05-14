@@ -1,7 +1,7 @@
 # Salat-vue
 
-Prayers time web app using vuejs, it supports almost all countries and cities and it uses Muslim World League as calculation method (Methods identify various schools of thought about how to compute the timings).
+A prayer time web app built with Vue.js, supporting nearly all countries and cities worldwide. It uses the Muslim World League calculation method, which reflects one of the recognized schools of thought for determining prayer times.
 
-## ScreenShot
+## Screenshot
 
-![Salat-Vue](https://github.com/ELATTARIYassine/Salat-vue/blob/main/media/updated.png)
+![Salat-Vue](/media/salat-vue.png)
